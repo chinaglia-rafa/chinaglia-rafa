@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Esse é meu perfil do github, um dia eu vou colocar coisas aqui.
+
+## Holopin
+Saca só minhas badges do Holopin :)
+
+[![@rafachinaglia's Holopin board](https://holopin.io/api/user/board?user=rafachinaglia)](https://holopin.io/@rafachinaglia)
+
 <!--
 **chinaglia-rafa/chinaglia-rafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
